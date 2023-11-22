@@ -5,11 +5,11 @@
   "tokens": [
     {
       "chainId": 369,
-      "address": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
-      "name": "USD Coin from Ethereum",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07.png"
+      "address": "0x3FE86297B3DC3de14D95D9f6812caF7bB8530c24",
+      "name": "HEXX",
+      "symbol": "HEXX",
+      "decimals": 18,
+      "logoURI": https://www.dropbox.com/scl/fo/yalhtbld0wlrt6lzg8d0u/h?rlkey=hajbk9cer1916l8wha3f8r5mg&dl=0
     },
     {
       "chainId": 369,
